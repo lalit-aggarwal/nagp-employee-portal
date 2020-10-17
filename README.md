@@ -1,6 +1,6 @@
 # NAGP Node.js Workshop Assignment
 
-PROBLEM STATEMENT:
+### Problem statement
 
 Create an employee portal where the employees can apply for the available opening positions in the company. Also, the project managers can add an opening for the project.
 
@@ -50,3 +50,9 @@ Download instructions can be found https://docs.mongodb.com/compass/master/insta
 ## Running the project
 
     $ npm start
+	
+After running above command, Navigate to http://localhost:8000/
+
+## Assumptions
+
+- #### Using local db instance of MongoDb running on port 27017
