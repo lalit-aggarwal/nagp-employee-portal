@@ -56,3 +56,5 @@ After running above command, Navigate to http://localhost:8000/
 ## Assumptions
 
 - #### Using local db instance of MongoDb running on port 27017
+
+## Screenshots can be found under screenshots folder
