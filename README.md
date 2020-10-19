@@ -47,6 +47,11 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 Download instructions can be found https://docs.mongodb.com/compass/master/install
 
+1: Select on-premises option
+2: Select community server
+3: Select install as per your platform and install the same
+4: Connect to localhost:27017 mongodb instance
+
 ## Running the project
 
     $ npm start
